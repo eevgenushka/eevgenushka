@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-:woman_technologist: About Me : 
+:woman_technologist: Обо мне : 
 
 Учусь на веб-разработчика в Яндекс Практикуме <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Самары. 
 - :telescope: Я работаю в Райффайзенбанке и планирую переход в IT.
