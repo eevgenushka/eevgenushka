@@ -15,7 +15,7 @@
 
 :mailbox:My contacts:
 <div id="badges align="center">
-  <a href="https://mail.google.com/mail/u/0/?ogbl#inbox">
+  <a href="fedotovaevgenia1793@gmail.com">
     <img src="https://img.shields.io/badge/Google-Mail-red?style=for-the-badge&logo=Google&logoColor=white" alt="Google Badge"/>
   </a>
   <a href="https://t.me/eevgenushka">
