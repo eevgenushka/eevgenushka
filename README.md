@@ -5,12 +5,24 @@
   Всем привет
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
 :woman_technologist: Обо мне : 
 
 Учусь на веб-разработчика в Яндекс Практикуме <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Самары. 
-- :telescope: Я работаю в Райффайзенбанке и планирую переход в IT.
 
+- :telescope: Я работаю в Райффайзенбанке и планирую переход в IT.
+- :seedling: Не боюсь больших объемов информации и укладываюсь в дедлайны.
+- :zap: Люблю чистый код.
+
+:mailbox:My contacts:
+<div id="badges align="center">
+  <a href="https://mail.google.com/mail/u/0/?ogbl#inbox">
+    <img src="https://img.shields.io/badge/Google-Mail-red?style=for-the-badge&logo=Google&logoColor=white" alt="Google Badge"/>
+  </a>
+  <a href="https://t.me/eevgenushka">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+ </div>
+                                                                                                                                
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
